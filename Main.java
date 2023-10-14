@@ -87,8 +87,9 @@ public class Main{
 							fw2.close();
 						}
 						else{
-							System.out.println("Task Number Not Found");
+							System.out.println("\nTask Number Not Found");
 						}
+
 						break;
 						
 					case 3:
@@ -112,9 +113,9 @@ public class Main{
 				}
 
 			}
+			
 			while(mainMenuChoice != 0);
 
-			
 		}
 
 
